@@ -1,0 +1,41 @@
+=== WP Hotell Sikkerhet ===
+Tags: login, logge, limit, security, sikkerhet, innloggingsforsøk, begrenset, wp hotell, wphotell
+Requires at least: 4.7
+Tested up to: 5.0
+Requires PHP: 5.6
+Stable tag: 0.0.1
+Contributors: wphotell
+
+En liten og enkel plugin som begrenser antall innloggingsforsøk for å beskytte passordet ditt.
+
+== Detaljer ==
+
+En liten og enkel plugin som begrenser antall innloggingsforsøk for å beskytte passordet ditt. Etter 3 forsøk må bruker vente 5 minutter før nytt forsøk tillates. I tillegg vil den bytte WordPress logo ved innlogging med en logo som viser at den er administrert (valgfritt). I innstillinger kan du aktivere eller deaktivere login begrensinger og administrert login-logo.
+
+== Funksjoner ==
+
+- Sikkerhetsfunksjonen forsikrer at IP er unik slik at lovlig bruker av nettstedet ikke blir utestengt.
+- 3 forsøk før bruker blir utestengt i 5 minutter
+- Viser nedtelling med minutter og sekunder til neste forsøk
+
+== Installering ==
+
+1. Legg plugin i [wordpress_dir]/wp-content/plugins/
+2. Gå til WordPress utvidelser i kontrollpanel og aktiver plugin
+3. Gå til Innstillnger/WP Hotell Sikkerhet og aktiver ønsket funksjon
+
+== Språk ==
+
+Norsk, English
+
+== Plugin support ==
+
+Trenger du support eller har spørsmål kan benytte kontaktskjemaet som du finner hos <a href="https://wphotell.unitedworks.no">WP Hotell United Works</a>.
+
+== Personvern og GDPR ==
+
+Denne plugin samler ikke inn eller behandler noen personlige brukerdata.
+
+== Bidragsytere og utviklere ==
+
+https://profiles.wordpress.org/wphotell/

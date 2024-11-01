@@ -1,0 +1,128 @@
+msgid ""
+msgstr ""
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"Project-Id-Version: WP Hotell Security\n"
+"POT-Creation-Date: 2019-10-15 03:10+0400\n"
+"PO-Revision-Date: 2019-10-15 03:20+0400\n"
+"Language-Team: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 2.0.7\n"
+"X-Poedit-Basepath: ..\n"
+"X-Poedit-Flags-xgettext: --add-comments=translators:\n"
+"X-Poedit-WPHeader: wphotell-login-beskyttelse.php\n"
+"X-Poedit-SourceCharset: UTF-8\n"
+"X-Poedit-KeywordsList: __;_e;_n:1,2;_x:1,2c;_ex:1,2c;_nx:4c,1,2;esc_attr__;"
+"esc_attr_e;esc_attr_x:1,2c;esc_html__;esc_html_e;esc_html_x:1,2c;"
+"_n_noop:1,2;_nx_noop:3c,1,2;__ngettext_noop:1,2\n"
+"Last-Translator: \n"
+"Language: nb_NO\n"
+"X-Poedit-SearchPath-0: .\n"
+"X-Poedit-SearchPathExcluded-0: *.js\n"
+
+#. Plugin Name of the plugin/theme
+#: wphotell-login-beskyttelse.php:56
+msgid "WP Hotell Security"
+msgstr "WP Hotell Sikkerhet"
+
+#: wphotell-login-beskyttelse.php:88
+msgid "Limiting number of login attempts"
+msgstr "Begrens antall login forsøk"
+
+#: wphotell-login-beskyttelse.php:89
+msgid "Show WP Hotell login logo"
+msgstr "Vis WP Hotell login logo"
+
+#: wphotell-login-beskyttelse.php:93
+msgid "Save changes"
+msgstr "Lagre endringer"
+
+#: wphotell-login-beskyttelse.php:112
+#, php-format
+msgid ""
+"<strong>WP Hotell says</strong>: You have tried to many times, you can try "
+"again in %1$s."
+msgstr ""
+"<strong>WP Hotell sier</strong>: Du har prøvd for mange ganger, du kan "
+"prøve igjen om %1$s."
+
+#: wphotell-login-beskyttelse.php:112
+msgid "Support"
+msgstr "Support"
+
+#: wphotell-login-beskyttelse.php:184
+msgid "second"
+msgstr "sekund"
+
+#: wphotell-login-beskyttelse.php:184
+msgid "seconds"
+msgstr "sekunder"
+
+#: wphotell-login-beskyttelse.php:185
+msgid "minute"
+msgstr "minutt"
+
+#: wphotell-login-beskyttelse.php:185
+msgid "minutes"
+msgstr "minutter"
+
+#: wphotell-login-beskyttelse.php:186
+msgid "hour"
+msgstr "time"
+
+#: wphotell-login-beskyttelse.php:186
+msgid "hours"
+msgstr "timer"
+
+#: wphotell-login-beskyttelse.php:187
+msgid "day"
+msgstr "dag"
+
+#: wphotell-login-beskyttelse.php:187
+msgid "days"
+msgstr "dager"
+
+#: wphotell-login-beskyttelse.php:188
+msgid "week"
+msgstr "uke"
+
+#: wphotell-login-beskyttelse.php:188
+msgid "weeks"
+msgstr "uker"
+
+#: wphotell-login-beskyttelse.php:189
+msgid "month"
+msgstr "måned"
+
+#: wphotell-login-beskyttelse.php:189
+msgid "months"
+msgstr "måneder"
+
+#: wphotell-login-beskyttelse.php:190
+msgid "year"
+msgstr "år"
+
+#: wphotell-login-beskyttelse.php:190
+msgid "years"
+msgstr "årer"
+
+#. Plugin URI of the plugin/theme
+msgid "https://wphotell.unitedworks.no/beste-wordpress-hosting/"
+msgstr "https://wphotell.unitedworks.no/beste-wordpress-hosting/"
+
+#. Description of the plugin/theme
+msgid ""
+"A small and simple plugin that limits number of login attempts to protect "
+"your password."
+msgstr ""
+"En liten og enkel plugin som begrenser antall innloggingsforsøk for å "
+"beskytte passordet ditt."
+
+#. Author of the plugin/theme
+msgid "WP Hotell"
+msgstr "WP Hotell"
+
+#. Author URI of the plugin/theme
+msgid "https://wphotell.no/"
+msgstr "https://wphotell.no/"
